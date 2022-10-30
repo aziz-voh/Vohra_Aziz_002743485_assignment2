@@ -17,3 +17,4 @@ hospital administrator, community administrator, etc)
 • Draw a class diagram and sequence diagram and write the description of your project. 
 Put them in your README file.
 
+![My Image](class_diagram.jpeg)
