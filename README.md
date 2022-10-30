@@ -15,4 +15,5 @@ FYI:https://www.codecademy.com/articles/what-is-crud
 • Design different roles of users in this application:(System administrator, patient, 
 hospital administrator, community administrator, etc)  
 • Draw a class diagram and sequence diagram and write the description of your project. 
-Put them in your README file. 
+Put them in your README file.
+
