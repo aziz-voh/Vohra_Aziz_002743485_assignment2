@@ -18,3 +18,4 @@ hospital administrator, community administrator, etc)
 Put them in your README file.
 
 ![My Image](class_diagram.jpeg)
+![My Image](seq.jpeg)

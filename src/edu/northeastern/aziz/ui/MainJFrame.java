@@ -82,6 +82,8 @@ public class MainJFrame extends javax.swing.JFrame {
         pnlSysAdmin.setVisible(false);
         pnlCommunityAdmin.setVisible(false);
         pnlHospitalAdmin.setVisible(false);
+       
+        
 
     }
 
