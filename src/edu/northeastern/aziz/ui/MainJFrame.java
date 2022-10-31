@@ -545,7 +545,7 @@ public class MainJFrame extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        pnlLogin.setBackground(new java.awt.Color(153, 204, 255));
+        pnlLogin.setBackground(new java.awt.Color(0, 153, 255));
         pnlLogin.setFont(new java.awt.Font("Segoe UI", 0, 19)); // NOI18N
 
         lblLogin.setFont(new java.awt.Font("Helvetica", 1, 24)); // NOI18N

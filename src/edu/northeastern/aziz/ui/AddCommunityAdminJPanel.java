@@ -84,7 +84,7 @@ public class AddCommunityAdminJPanel extends javax.swing.JPanel {
         lblPass = new javax.swing.JLabel();
         btnCreate = new javax.swing.JButton();
 
-        setBackground(new java.awt.Color(0, 204, 204));
+        setBackground(new java.awt.Color(204, 204, 255));
 
         jLabel1.setFont(new java.awt.Font("Helvetica Neue", 1, 18)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);

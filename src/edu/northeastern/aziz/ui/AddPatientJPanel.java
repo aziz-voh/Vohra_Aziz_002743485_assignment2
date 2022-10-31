@@ -103,7 +103,7 @@ public class AddPatientJPanel extends javax.swing.JPanel {
         btnCreate = new javax.swing.JButton();
         comboBoxgender = new javax.swing.JComboBox<>();
 
-        setBackground(new java.awt.Color(0, 204, 204));
+        setBackground(new java.awt.Color(204, 204, 255));
 
         lblTitle.setFont(new java.awt.Font("Helvetica Neue", 1, 18)); // NOI18N
         lblTitle.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
